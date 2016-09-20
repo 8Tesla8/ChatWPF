@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPClient", "SPClient\SPClient.csproj", "{416690D3-562D-474E-BCA8-F199606890D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPServer", "SPServer\SPServer.csproj", "{B5AA4DEF-3AD7-4AD2-9024-AD5A0BD176D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityExtension", "EntityMessage\EntityExtension.csproj", "{4A5F2408-BF01-41F5-ADB0-E8ACEBD4A8F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfClient", "WpfClient\WpfClient.csproj", "{9E05BB43-6E81-4F09-AD02-A033F3EB8F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfServer", "WpfServer\WpfServer.csproj", "{5AC20B3A-C597-45AE-8FE1-661C1E6C2300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{416690D3-562D-474E-BCA8-F199606890D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{416690D3-562D-474E-BCA8-F199606890D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{416690D3-562D-474E-BCA8-F199606890D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{416690D3-562D-474E-BCA8-F199606890D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5AA4DEF-3AD7-4AD2-9024-AD5A0BD176D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AA4DEF-3AD7-4AD2-9024-AD5A0BD176D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AA4DEF-3AD7-4AD2-9024-AD5A0BD176D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AA4DEF-3AD7-4AD2-9024-AD5A0BD176D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5F2408-BF01-41F5-ADB0-E8ACEBD4A8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5F2408-BF01-41F5-ADB0-E8ACEBD4A8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5F2408-BF01-41F5-ADB0-E8ACEBD4A8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5F2408-BF01-41F5-ADB0-E8ACEBD4A8F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E05BB43-6E81-4F09-AD02-A033F3EB8F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E05BB43-6E81-4F09-AD02-A033F3EB8F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E05BB43-6E81-4F09-AD02-A033F3EB8F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E05BB43-6E81-4F09-AD02-A033F3EB8F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC20B3A-C597-45AE-8FE1-661C1E6C2300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC20B3A-C597-45AE-8FE1-661C1E6C2300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC20B3A-C597-45AE-8FE1-661C1E6C2300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC20B3A-C597-45AE-8FE1-661C1E6C2300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tesla888.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EntityMessage\\EntityExtension.csproj
+		SccProjectName1 = EntityMessage
+		SccLocalPath1 = EntityMessage
+		SccProjectUniqueName2 = SPClient\\SPClient.csproj
+		SccProjectName2 = SPClient
+		SccLocalPath2 = SPClient
+		SccProjectUniqueName3 = SPServer\\SPServer.csproj
+		SccProjectName3 = SPServer
+		SccLocalPath3 = SPServer
+		SccProjectUniqueName4 = WpfClient\\WpfClient.csproj
+		SccProjectName4 = WpfClient
+		SccLocalPath4 = WpfClient
+		SccProjectUniqueName5 = WpfServer\\WpfServer.csproj
+		SccProjectName5 = WpfServer
+		SccLocalPath5 = WpfServer
+	EndGlobalSection
+EndGlobal

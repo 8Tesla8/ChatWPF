@@ -1,0 +1,30 @@
+C:\Users\Kuzn_to20\Desktop\SPClient\SPServer\bin\Debug\SPServer.exe.config
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPServer\bin\Debug\SPServer.exe.config
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPServer\bin\Debug\SPServer.exe
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPServer\bin\Debug\SPServer.pdb
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPServer\obj\Debug\SPServer.exe
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPServer\obj\Debug\SPServer.pdb
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPServer\bin\Debug\EntityMessage.dll
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPServer\bin\Debug\EntityMessage.pdb
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPServer\obj\Debug\SPServer.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo888\Desktop\SPClient My v2 with Serialize and send length\SPServer\bin\Debug\SPServer.exe.config
+C:\Users\Lenovo888\Desktop\SPClient My v2 with Serialize and send length\SPServer\obj\Debug\SPServer.exe
+C:\Users\Lenovo888\Desktop\SPClient My v2 with Serialize and send length\SPServer\obj\Debug\SPServer.pdb
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPServer\bin\Debug\SPServer.exe.config
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPServer\obj\Debug\SPServer.exe
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPServer\obj\Debug\SPServer.pdb
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPServer\bin\Debug\SPServer.exe
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPServer\bin\Debug\SPServer.pdb
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPServer\bin\Debug\EntityMessage.dll
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPServer\bin\Debug\EntityMessage.pdb
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPServer\obj\Debug\SPServer.csprojResolveAssemblyReference.cache
+E:\WorkspacesVisualStudioOnline\SPClient\SPServer\bin\Debug\SPServer.exe.config
+E:\WorkspacesVisualStudioOnline\SPClient\SPServer\obj\Debug\SPServer.exe
+E:\WorkspacesVisualStudioOnline\SPClient\SPServer\obj\Debug\SPServer.pdb
+E:\WorkspacesVisualStudioOnline\SPClient\SPServer\bin\Debug\SPServer.exe
+E:\WorkspacesVisualStudioOnline\SPClient\SPServer\bin\Debug\SPServer.pdb
+E:\WorkspacesVisualStudioOnline\SPClient\SPServer\bin\Debug\EntityMessage.dll
+E:\WorkspacesVisualStudioOnline\SPClient\SPServer\bin\Debug\EntityMessage.pdb
+E:\WorkspacesVisualStudioOnline\SPClient\SPServer\obj\Debug\SPServer.csprojResolveAssemblyReference.cache
+E:\WorkspacesVisualStudioOnline\SPClient\SPServer\bin\Debug\SPClient.exe
+E:\WorkspacesVisualStudioOnline\SPClient\SPServer\bin\Debug\SPClient.pdb

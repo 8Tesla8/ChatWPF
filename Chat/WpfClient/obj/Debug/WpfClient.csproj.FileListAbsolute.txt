@@ -1,0 +1,19 @@
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\bin\Debug\WpfClient.exe.config
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\obj\Debug\WpfClient.csprojResolveAssemblyReference.cache
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\obj\Debug\MainWindow.g.cs
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\obj\Debug\App.g.cs
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\bin\Debug\WpfClient.exe
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\bin\Debug\WpfClient.pdb
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\bin\Debug\EntityMessage.dll
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\bin\Debug\EntityMessage.pdb
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\obj\Debug\MainWindow.baml
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\obj\Debug\WpfClient.g.resources
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.Cache
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\obj\Debug\WpfClient.exe
+E:\WorkspacesVisualStudioOnline\SPClient\WpfClient\obj\Debug\WpfClient.pdb
+D:\Программирование\Shag Work\Сетевое программирование\SPClient - итоговое задание чат\WpfClient\bin\Debug\WpfClient.exe.config
+D:\Программирование\Shag Work\Сетевое программирование\SPClient - итоговое задание чат\WpfClient\obj\Debug\WpfClient.exe
+D:\Программирование\Shag Work\Сетевое программирование\SPClient - итоговое задание чат\WpfClient\obj\Debug\WpfClient.pdb

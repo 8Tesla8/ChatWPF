@@ -1,0 +1,54 @@
+﻿<Window x:Class="WpfClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfClient"
+        mc:Ignorable="d"
+       Title="MainWindowClient" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <TextBox x:Name="NameUser" Text ="Name User " Width="70" Height="20" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" Margin="1" TextWrapping="Wrap" VerticalAlignment="Bottom"/>
+
+            <TextBlock x:Name="ChatClient" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" Margin="1" TextWrapping="Wrap" Text="Enter your nick" VerticalAlignment="Top"/>
+
+            <Button x:Name="Start" Grid.Row="0" Grid.Column="1" Content="Start" HorizontalAlignment="Left" Margin="10" VerticalAlignment="Top" Width="75"
+                Click="StartHandler"/>
+            <Button x:Name="Disconect" Grid.Row="0" Grid.Column="2" Content="Disconect" HorizontalAlignment="Left" Margin="10" VerticalAlignment="Top" Width="75"
+                Click="DisconectHandler"/>
+        </Grid>
+        
+        <!--сетка 2-->
+        <Grid Grid.Row="1" Margin="0,0,10,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <TextBox x:Name="ChatBox" Margin="10" TextWrapping="Wrap" Text=" " Grid.Column="0"  IsReadOnly="True"/>
+        </Grid>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <TextBox x:Name="MassegeBox" Grid.Column="0" Margin="10" TextWrapping="Wrap" Text="Your Text Massege"/>
+            <Button x:Name="SendBtn" Content="Send Massege" Grid.Column="1" Margin="10" Click="SendHandler"/>
+
+        </Grid>
+
+    </Grid>
+</Window>

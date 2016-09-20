@@ -1,0 +1,36 @@
+C:\Users\Kuzn_to20\Desktop\SPClient\SPClient\bin\Debug\SPClient.exe.config
+C:\Users\Kuzn_to20\Desktop\SPClient\SPClient\bin\Debug\SPClient.exe
+C:\Users\Kuzn_to20\Desktop\SPClient\SPClient\bin\Debug\SPClient.pdb
+C:\Users\Kuzn_to20\Desktop\SPClient\SPClient\obj\Debug\SPClient.csprojResolveAssemblyReference.cache
+C:\Users\Kuzn_to20\Desktop\SPClient\SPClient\obj\Debug\SPClient.exe
+C:\Users\Kuzn_to20\Desktop\SPClient\SPClient\obj\Debug\SPClient.pdb
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPClient\bin\Debug\SPClient.exe.config
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPClient\obj\Debug\SPClient.exe
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPClient\obj\Debug\SPClient.pdb
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPClient\bin\Debug\SPClient.exe
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPClient\bin\Debug\SPClient.pdb
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPClient\bin\Debug\EntityMessage.dll
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPClient\bin\Debug\EntityMessage.pdb
+C:\Users\Lenovo888\Desktop\SPClient My v1\SPClient\obj\Debug\SPClient.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo888\Desktop\SPClient My v2 with Serialize and send length\SPClient\bin\Debug\SPClient.exe.config
+C:\Users\Lenovo888\Desktop\SPClient My v2 with Serialize and send length\SPClient\obj\Debug\SPClient.exe
+C:\Users\Lenovo888\Desktop\SPClient My v2 with Serialize and send length\SPClient\obj\Debug\SPClient.pdb
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPClient\bin\Debug\SPClient.exe.config
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPClient\obj\Debug\SPClient.exe
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPClient\obj\Debug\SPClient.pdb
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPClient\bin\Debug\SPClient.exe
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPClient\bin\Debug\SPClient.pdb
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPClient\bin\Debug\EntityMessage.dll
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPClient\bin\Debug\EntityMessage.pdb
+E:\WorkspacesVisualStudioOnline\SPClientMy\SPClient\obj\Debug\SPClient.csprojResolveAssemblyReference.cache
+E:\WorkspacesVisualStudioOnline\SPClient\SPClient\bin\Debug\SPClient.exe.config
+E:\WorkspacesVisualStudioOnline\SPClient\SPClient\obj\Debug\SPClient.exe
+E:\WorkspacesVisualStudioOnline\SPClient\SPClient\obj\Debug\SPClient.pdb
+E:\WorkspacesVisualStudioOnline\SPClient\SPClient\bin\Debug\SPClient.exe
+E:\WorkspacesVisualStudioOnline\SPClient\SPClient\bin\Debug\SPClient.pdb
+E:\WorkspacesVisualStudioOnline\SPClient\SPClient\bin\Debug\EntityMessage.dll
+E:\WorkspacesVisualStudioOnline\SPClient\SPClient\bin\Debug\EntityMessage.pdb
+E:\WorkspacesVisualStudioOnline\SPClient\SPClient\obj\Debug\SPClient.csprojResolveAssemblyReference.cache
+D:\Программирование\Shag Work\Сетевое программирование\SPClient - итоговое задание чат\SPClient\bin\Debug\SPClient.exe.config
+D:\Программирование\Shag Work\Сетевое программирование\SPClient - итоговое задание чат\SPClient\obj\Debug\SPClient.exe
+D:\Программирование\Shag Work\Сетевое программирование\SPClient - итоговое задание чат\SPClient\obj\Debug\SPClient.pdb

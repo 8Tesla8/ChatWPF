@@ -1,0 +1,14 @@
+C:\Users\Lenovo888\Desktop\SPClient My v1\EntityMessage\bin\Debug\EntityMessage.dll
+C:\Users\Lenovo888\Desktop\SPClient My v1\EntityMessage\bin\Debug\EntityMessage.pdb
+C:\Users\Lenovo888\Desktop\SPClient My v1\EntityMessage\obj\Debug\EntityMessage.dll
+C:\Users\Lenovo888\Desktop\SPClient My v1\EntityMessage\obj\Debug\EntityMessage.pdb
+E:\WorkspacesVisualStudioOnline\SPClientMy\EntityMessage\bin\Debug\EntityMessage.dll
+E:\WorkspacesVisualStudioOnline\SPClientMy\EntityMessage\bin\Debug\EntityMessage.pdb
+E:\WorkspacesVisualStudioOnline\SPClientMy\EntityMessage\obj\Debug\EntityExtension.csprojResolveAssemblyReference.cache
+E:\WorkspacesVisualStudioOnline\SPClientMy\EntityMessage\obj\Debug\EntityMessage.dll
+E:\WorkspacesVisualStudioOnline\SPClientMy\EntityMessage\obj\Debug\EntityMessage.pdb
+E:\WorkspacesVisualStudioOnline\SPClient\EntityMessage\bin\Debug\EntityMessage.dll
+E:\WorkspacesVisualStudioOnline\SPClient\EntityMessage\bin\Debug\EntityMessage.pdb
+E:\WorkspacesVisualStudioOnline\SPClient\EntityMessage\obj\Debug\EntityMessage.dll
+E:\WorkspacesVisualStudioOnline\SPClient\EntityMessage\obj\Debug\EntityMessage.pdb
+E:\WorkspacesVisualStudioOnline\SPClient\EntityMessage\obj\Debug\EntityExtension.csprojResolveAssemblyReference.cache
